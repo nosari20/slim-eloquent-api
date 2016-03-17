@@ -1,0 +1,14 @@
+{
+    "require": {
+        "slim/slim": "*",
+        "illuminate/database": "*"
+    }
+    ,
+    "autoload": {
+        "psr-4": {
+            "" : "app/"
+                
+            
+        }
+    }
+}
